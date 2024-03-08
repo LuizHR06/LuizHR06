@@ -21,5 +21,4 @@
 <div>
   <a href="https://www.linkedin.com/in/luizhenrique-r06203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://portfolio-luiz-blue.vercel.app" target="_blank"><img src="https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a> 
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 </div>
